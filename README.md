@@ -2,4 +2,8 @@
 
 Este proyecto es para probar los comandos de git. 🥴
 
-## Joojojojo este es un subtitulo.
+## The following verbs are not normally used in the present continous:
+
+## You can say he’s being … , you’re being … etc. to say how somebody is behaving now
+
+## We use am/is/are being to say how a person is behaving (= doing something they can control) now.
