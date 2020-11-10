@@ -7,3 +7,7 @@ Este proyecto es para probar los comandos de git. 🥴
 ## You can say he’s being … , you’re being … etc. to say how somebody is behaving now
 
 ## We use am/is/are being to say how a person is behaving (= doing something they can control) now.
+
+# Instructions
+
+1. Open index.html in your browser
